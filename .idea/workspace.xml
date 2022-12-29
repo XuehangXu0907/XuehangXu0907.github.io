@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c3c040-526c-4770-b1fc-855a33b255d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/my-web/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-web/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-web/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-web/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-web/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-web/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-web/public/robots.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672255540605</updated>
       <workItem from="1672255542623" duration="517000" />
-      <workItem from="1672256461352" duration="357000" />
+      <workItem from="1672256461352" duration="1432000" />
     </task>
     <servers />
   </component>
